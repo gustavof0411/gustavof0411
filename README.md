@@ -1,5 +1,5 @@
 # $\Huge{\textsf{Olá, me chamo \color{#0d6efd}{\textsf{G}}\color{white}{\textsf{ustavo}} \color{#dc3545}{\textsf{S}}\color{white}{\textsf{ilva}}}}$
 
-### Curto aprender e solucionar problemas 
+### Curto aprender e solucionar problemas 😁
 
-Conheça mais sobre meus projetos em meu portfólio [clicando aqui!](https://gustavosilvadev.vercel.app)
+Saiba mais sobre projetos que participei [clicando aqui!](https://gustavosilvadev.vercel.app)
